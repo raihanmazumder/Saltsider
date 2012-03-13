@@ -1,8 +1,8 @@
-This git repository is the application for developer jobs at Saltside.
+This is the developer assignment for new recruits to Saltside.
 
 ```bash
 $ bundle
 $ rspec saltsider.rb
 ```
 
-Have fun :D
+Fix the Saltsider, run the tests, have fun! :D

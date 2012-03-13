@@ -1,5 +1,5 @@
 class Saltsider
-  # Fix me
+  # TODO: Fix me
 end
 
 describe Saltsider do
