@@ -46,6 +46,7 @@ describe Saltsider do
     end
 
     it "should rank 0 skill points as Script Kid" do
+      saltsider = Saltsider.new()
       saltsider.level_of_awesomeness.should eq "Script Kid"
     end
   end
